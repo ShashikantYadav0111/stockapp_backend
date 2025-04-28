@@ -1,0 +1,174 @@
+index,name,price,mcap,pe,pb,roce,roe,three_yr_rev_charge,three_yr_pat_charge,pbtbcfo,de,ds,sector
+1,NSE India Limited Unlisted Shares,1625,402188,47.85,16.78,46.6,35.06,28.66,27.17,256.17,,Yes,finance
+2,TATA Capital Unlisted Share,975,360750,108.45,14.67,,13.53,33.23,34.07,N/A,5.68,Yes,finance
+3,SBI Mutual Fund Unlisted Shares,2575,130383,62.9,19.32,37.48,30.72,29.29,38.42,56.04,,Yes,finance
+4,Nayara Energy (Formerly Essar Oil) Limited Unlisted Shares,700,104339,8.47,2.4,32.08,28.33,13.83,265.76,17.51,0.27,No,energy
+5,HDB Financial Services Limited Unlisted Shares,975,77327,35.53,4.89,,13.75,14.64,5.39,N/A,5.15,Yes,finance
+6,Capgemini Technology Services India Limited Unlisted Shares,12500,74089,22.82,3.58,16.37,15.67,10.81,18.64,83.91,,No,it
+7,Anheuser Busch Inbev (Sabmiller) India Limited Unlisted Shares,600,55704,-127.12,74.44,-22.47,-59.32,47.35,N/A,317.65,1.25,No,fmcg
+8,ORAVEL STAYS LIMITED (Oyo Unlisted Shares),52,33800,148.57,37.41,11.28,25.53,6.17,N/A,84.46,4,No,hotels
+9,SBI General Insurance Unlisted Shares,1150,25689,107.48,110.05,,106.99,27.98,35.07,N/A,,No,insurance
+10,NSDL Unlisted Shares,1100,22000,80,13.05,15.5,16.33,29.08,13.89,39.65,,Yes,finance
+11,Big Basket Unlisted Shares,1950,21781.5,-15.39,24.75,-52.86,-160.95,8.81,N/A,111.55,1.8,No,fmcg
+12,Cochin International Airport Limited Unlisted Shares,425,20324,45.36,8.55,19.44,18.93,51.88,257.77,81.99,0.25,Yes,finance
+13,Hero Fincorp Limited Unlisted Shares,1345,17081.5,26.81,2.96,,11.05,32.82,N/A,N/A,7.38,Yes,miscellaneous
+14,Care Health (Previously Religare Health) Insurance Company Limited Unlisted Shares,172,16719,54.78,17.03,,31.38,38.46,426.57,N/A,,No,insurance
+15,Inox Leasing And Finance Limited Unlisted Shares,16400,16236,46.13,1.71,4.77,3.7,10.08,-37.5,94.3,0.36,Yes,finance
+16,Boat Unlisted Share Price (Imagine Marketing),1675,16105,-303.99,34.08,-1.88,-11.24,3.94,N/A,-13333.33,1.82,No,electronics
+17,HDFC Securities Limited Unlisted Shares,9750,15571,13.85,4.64,20.2,33.58,31.97,20.27,101.28,2.37,Yes,finance
+18,Reliance General Insurance,575,15404,55.02,56.04,,105.73,11.36,7.57,N/A,,No,insurance
+19,Vikram Solar Unlisted Shares,398,12688,158.57,27.89,20.83,17.99,20.48,N/A,38.1,1.82,No,energy
+20,Hinduja Leyland Finance Limited,230,12541,19.73,1.84,,9.34,,N/A,N/A,5.14,No,finance
+21,SK Finance Limited,885,11841,38.08,3.81,,10.01,47.79,47.47,N/A,2.87,No,finance
+22,ASK Investment Managers Limited,1375,11598,28.78,7.43,29.57,25.85,8.14,14.02,108.49,,No,investment
+23,Vivriti Capital Limited,1025,11131.5,57.68,3.7,,6.43,76.17,69.72,N/A,2.35,No,investment
+24,Incred Holdings Limited Unlisted Shares,162,10397,33.68,3.06,,9.12,57.33,215.72,N/A,1.48,No,investment
+25,Motilal Oswal Home Finance Limited Unlisted Shares,16,9660.64,72.73,7.51,,10.26,6.74,17.88,N/A,2.33,No,finance
+26,Indian Potash Limited Unlisted Share,3100,8865,7.05,0.93,2.41,13.22,6.39,-11.82,-367.83,0.48,Yes,chemical
+27,Manjushree Technopack India Limited Unlisted Shares,895,8446,59.91,8.3,12.43,13.99,20.11,41.12,94.12,0.75,Yes,packaging
+28,Signify Innovations (Previously Phillips Lighting) India Limited Unlisted Shares,1325,7621,28.33,13.63,64.12,49,4.79,7.68,72.54,,Yes,steel
+29,Electrosteel Steels Limited Unlisted Shares,40,7396,-7.65,1.6,-4.38,-21.03,13.57,N/A,785.09,0.5,No,construction
+30,CSK Unlisted Shares,189,7171,35.59,13.58,49.04,38.16,42.8,150.43,125,,No,insurance
+31,Shriram Life Insurance Co. Ltd Unlisted Shares,400,7166.8,45.35,37.88,,88.18,21.47,625.72,N/A,,No,sports
+32,Parag Parikh Financial Advisory Services Ltd. (PPFAS),8200,6288,57.63,19.92,47.15,35.7,N/A,N/A,69.61,,Yes,energy
+33,Sterlite Power Transmission Limited Unlisted Shares,498,6076,26.42,4.55,20.16,17.25,-2.73,-27.71,-434.47,0.58,Yes,finance
+34,Carrier Airconditioning & Refrigeration Limited Unlisted Shares,545,5798,38.41,11.16,29.45,29.65,14.98,89.61,156,,Yes,consumer
+35,PharmEasy Unlisted Shares,9,5784,-2.28,2.23,-12.89,-97.89,-0.57,N/A,9.44,1.58,Yes,pharma
+36,ORBIS FINANCIAL CORPORATION Unlisted Shares,455,5539,39.29,7.94,35.63,20.5,65.93,69.63,9.24,,Yes,consumer
+37,Philips India Limited Unlisted Shares,960,5522,21.49,3.68,20.41,17.25,4.63,-3.33,164.65,,Yes,finance
+38,Otis Elevator (India) Limited Unlisted Shares,4250,5018,23.9,18,84.82,78.12,19.3,19.93,103.53,,Yes,manufacturing
+39,Taparia Tools Limited Unlisted Shares,3200,4857,48.57,14.89,39.44,31.63,11.33,23.09,92.86,,Yes,forging
+40,Metropolitan Stock Exchange (MSEI) Unlisted Shares,7,4200,-87.5,,-31.17,-25.45,-16.33,N/A,105.56,,No,banking
+41,Arohan Financial Services Unlisted Shares,260,4093,13.03,2.13,,16.4,33.27,126.88,N/A,2.93,No,finance
+42,BVG India Limited Unlisted Share,315,4049,24.4,3.43,19.66,14.1,18.26,5.2,50.14,0.39,Yes,finance
+43,Bharat Nidhi (Bharat Bank) Unlisted Shares,13500,3874,7.69,0.94,-0.1,12.22,-27.99,52.4,220.93,,Yes,services
+44,ESDS Unlisted Shares,385,3866,234.76,15.15,13.36,6.49,20.04,N/A,81.65,0.41,No,it
+45,Pace Digitek Infra Private Limited,215,3837,15.82,6.79,41.61,43.69,146.28,342.19,87.71,0.8,No,services
+46,Merino Industries Limited Unlisted Shares,3300,3689,30.24,2.69,6.39,8.97,13.51,-3.94,130.43,0.53,Yes,manufacturing
+47,PNB Finance & Industries Limited Unlisted Shares,11500,3680,511.11,1.39,-0.06,0.27,N/A,N/A,510,,No,mining
+48,Hutti Gold Mines Company Limited Unlisted Shares,119838,3550,14.85,1.21,7.76,8.43,27.53,46.74,43.13,,Yes,manufacturing
+49,TRL Krosaki Refractories Limited Unlisted Shares,1695,3543,14.58,3.8,25.47,26.33,14.07,53.05,74.21,0.17,Yes,consumer
+50,Philips Domestic Appliances India Unlisted Shares,585,3365,27.8,9.8,47.08,36.28,0.17,-5.68,97.28,,Yes,manufacturing
+51,Goa Shipyard Limited Unlisted Shares,284,3306,12.2,2.29,1.88,18.84,53.91,63.8,525.49,,Yes,energy
+52,Onix Renewable Limited,12750,3181,80.74,29.6,30.45,40.42,87.35,343.85,94.66,0.92,No,miscellaneous
+53,Camac Commercial Company Limited Unlisted Shares,35000,3089.8,-333.3,0.94,0.03,-0.28,-31.83,N/A,-555.79,,No,power
+54,C&S Electric Limited Unlisted Shares,695,3071.9,-65.38,7.43,-20.17,-11.66,-20.55,N/A,-275.6,,No,pharma
+55,RDC Concrete (India) Limited,275,3048,75.34,18.33,26.51,25.93,41.84,0.62,74.76,2.53,No,construction
+56,Paymate India Limited,525,3027.68,-54.07,170.45,-276.31,-333.99,96.96,N/A,25,0.21,No,finance
+57,Veeda Clinical Research Limited,480,3024,-9600,2.85,,-0.03,16.07,N/A,109.43,0.25,No,metal
+58,Sambhv Steel Unlisted Shares,118,2844,34.3,6.26,19.16,18.69,25.36,6.63,86.08,0.61,No,finance
+59,Fincare Business Finance Unlisted Shares,85,2805,34.27,2.28,,6.66,14.47,8.23,N/A,3.08,No,services
+60,Indofil Industries Limited Unlisted Shares,1195,2744,8.26,0.69,8.1,8.31,4.79,23.13,96.38,0.09,Yes,hotels
+61,Studds Accessories Limited Unlisted Shares,695,2735,48,6.98,18.33,14.74,6.89,40.2,107.78,,Yes,consumer
+62,Bharat Hotels Unlisted Shares,345,2622,30.83,3.01,15.4,9.87,67.02,N/A,103.59,1.29,Yes,consumer
+63,Bira Unlisted Shares,415,2490,-3.32,,-266.49,206.85,-5.72,N/A,13.71,-1.64,No,finance
+64,Digvijay Finlease Unlisted Shares,1875,2484.38,57.78,0.21,0.48,0.36,2.1,5,62.5,,No,electronics
+65,Hindusthan Engineering & Industries Limited Unlisted Shares,1550,2280,11.01,1.62,14.6,14.8,70.89,130.38,-15.33,0.29,No,manufacturing
+66,LAVA International Limited Unlisted Shares,42,2273,66.67,2.37,5.54,3.57,-21.24,-57.35,137.8,0.12,No,construction
+67,Bootes Impex Tech Ltd.,3050,2263,251.24,116.32,43.4,46.55,330.74,650.42,-50,0.02,No,manufacturing
+68,Utkarsh Micro Finance(Core Invest) Unlisted Shares,225,2222,6.73,0.76,,11.34,27.09,130.71,N/A,1.2,No,finance
+69,Polymatech Unlisted Shares,54,2152,8.97,2.68,31.22,30.28,211.3,161.86,83.55,0.03,No,energy
+70,Power Exchange India Limited (PXIL),345,2017,91.76,19.88,19.44,24.05,23.82,18.15,687.5,0.16,No,holdings
+71,Axles India Limited Unlisted Shares,775,1976,22.97,6.94,32.54,31.33,22.51,59.04,24.81,0.3,Yes,finance
+72,KURLON Enterprise Limited Unlisted Shares,525,1918.35,-37.61,6.65,-13.06,-18,1.56,N/A,-433.33,,Yes,consumer
+73,Lords Mark Industries Limited,102,1840,161.9,19.62,10.83,12.73,61.42,64.03,-55.53,2.43,No,manufacturing
+74,Mohan Meakin Limited Unlisted Shares,2150,1829,21.52,4.93,27.82,23.21,18.67,28.53,60.36,0.01,Yes,engineering
+75,GKN Driveline India Limited Unlisted Shares,1425,1820,21.16,5.86,36.58,28.6,11.05,14.15,74.83,,Yes,airports
+76,Frick India Limited Unlisted Shares,2975,1785,42.5,6.29,14.94,15.35,31.07,57.18,2.17,0.08,Yes,manufacturing
+77,Kannur International Airport Limited Unlisted Shares,132,1767,-10.45,2.54,-3.41,-28.44,12.66,N/A,190,1.96,No,hospitals
+78,Royalcare Super Speciality Hospitals,98,1676,,,8.64,12.31,5.18,6.9,129.85,1.49,No,exchange
+79,National Commodity & Derivatives Exchange (NCDEX) Limited Unlisted Shares,210,1463,-52.24,3.01,-18.92,-5.89,-8.63,N/A,84.62,,Yes,edtech
+80,Jaro Education,975,1462.5,38.49,11.52,38.73,32.48,53.01,7.31,-27.42,0.21,No,it
+81,Kanara Consumer Products ( Formerly Known As Kurl-on Limited) Unlisted Shares,1025,1449,1.15,1.09,-1.17,95.53,-92.46,1021.61,4377.02,,No,consumer
+82,Transline Technologies Limited,155,1371,38.08,14.55,41.13,42.76,138.75,674.6,-71.7,0.49,No,fintech
+83,Arch Pharmalabs Limited Unlisted Shares,85,1330.08,10.9,1.57,9.3,14.57,37.82,-74.45,23.61,1.01,No,pharma
+84,Fino Paytech Limited Unlisted Shares,125,1307,16.13,1.78,0.48,11.16,762.49,-60.65,850,1.01,Yes,manufacturing
+85,Maharaja Shree Umaid Mills Unlisted Shares,135,1191,-108,2.23,0.12,-2.1,N/A,N/A,103.18,0.65,No,defence
+86,Goodluck Defence And Aerospace Unlisted Shares,240,1179,648.65,6.54,1.51,1.08,N/A,N/A,-1822.57,,No,engineering
+87,Dalmia Bharat Refractories Limited Unlisted Shares,255,1127,23.99,0.43,-1.63,1.8,-37.82,42.95,1150,0.22,Yes,manufacturing
+88,India Exposition Mart Ltd Unlisted Share,150,1111,,,10.25,10.27,113.28,N/A,53.19,0.09,Yes,energy
+89,Spray Engineering Devices Unlisted Shares,415,1042,19.65,7.8,41.31,42.91,59.88,87.97,21.84,0.61,No,consumer
+90,Midland Micro Finance Limited Unlisted Shares,195,1021,14.18,2.05,,14.77,56.01,80.91,N/A,3.79,Yes,finance
+91,Lakeshore Hospital Unlisted Share Price,83,830,,,12.25,11,5.03,,60.27,,Yes,hospitals
+92,Lotte India Corporation Limited Unlisted Shares,575,802,36.46,1.19,5.56,3.32,22.38,41.42,64.47,0.09,No,manufacturing
+93,Roots Multiclean Limited Unlisted Share,4000,800,16.67,2.71,19.71,16.84,18.72,35.87,50,0.23,Yes,manufacturing
+94,Apollo Green Energy Limited Unlisted Shares,230,796,20.72,1.42,6.77,6.97,23.43,-3.2,19.33,0.73,No,manufacturing
+95,Elofic Industries Limited Unlisted Shares,2750,688,14.32,2.58,23.39,18.71,3.28,10.94,62.5,,Yes,agriculture
+96,Parry Agro Industries Limited Unlisted Shares,1740,652.5,-87,8.61,-24.33,-11.41,6.09,N/A,62.27,,No,consumer
+97,Shree Refrigerations Limited,225,598,57.99,9.47,20.8,16.86,33.13,87.04,-21.13,0.6,No,energy
+98,Insolare Energy Unlisted Shares,4000,589,,,7.83,5.98,-25.68,-36.75,-153.85,0.53,No,energy
+99,A V Thomas & Co. Limited Unlisted Shares,12500,570,8.94,1.58,20.26,17.69,4.28,19.43,84.49,,Yes,trading
+100,Ring Plus Aqua Limited Unlisted Shares,675,524,10.27,2.36,9.22,24.09,17.53,14.75,63.53,2.84,No,manufacturing
+101,National E-Repository Limited (NeRL),62,502,-100,8.37,-18,-10,-5.13,N/A,97.4,,No,finance
+102,RKB Global Limited,125,490.88,60.98,3.2,15.27,5.61,11.44,63.71,,0.25,No,metal
+103,Honeywell Electrical Devices And Systems India Unlisted Shares,5000,476,41.59,3.97,11.67,9.55,13.96,-13.92,81.56,,No,services
+104,Fly SBS Unlisted Share,395,461,41.4,6.97,21.43,16.87,97.72,245.94,13.43,0.04,No,engineering
+105,Urban Tots Unlisted Shares,75,418,59.52,11.85,14.49,19.96,120.37,70.56,36.97,0.82,No,services
+106,Blu-Smart Mobility Private Limited,1900,408,-1.89,,-31.31,86.1,N/A,N/A,305.8,-3.18,No,consumer
+107,Bombay Gas Company Limited Unlisted Shares,500,400,1.42,1.67,144.19,122.17,113.85,N/A,62.65,0.02,No,energy
+108,Vimla Fuels And Metals Limited,155,388,,,46.46,40.19,96.85,525.23,40,0.19,No,energy
+109,Schneider Electric President Systems Unlisted Shares,640,387,,,23.03,19.74,3.48,36.93,-1.28,0.09,No,engineering
+110,Tea Time Unlisted Shares,39,381,177.27,13.36,9.1,7.5,27.63,33.54,-72.94,0.41,No,agriculture
+111,Eaton Fluid Power Limited Unlisted Shares,550,380,17.57,3.22,121.2,20.02,6.48,-10.56,25.11,0.32,No,consumer
+112,San Engineering And Locomotive Company Limited Unlisted Shares,850,378,13.51,1.47,13.8,11.36,28.44,87.08,17,,Yes,power
+113,AITMC Ventures Pvt. Ltd. (AVPL) Unlisted Shares Price,55,378,42.64,12.36,27.96,28.93,92.58,320.48,-26.83,0.08,No,engineering
+114,XtraNet Technologies Pvt. Ltd.,475,372,31.44,7.8,23.26,31.41,62.11,244.09,-24.79,0.98,No,engineering
+115,KLM Axiva Finvest Unlisted Shares Price,18,370,16.07,1.31,,8.44,30.69,44.6,N/A,3.06,Yes,finance
+116,Maharashtra Knowledge Corporation (MKCL) Limited Unlisted Shares,450,364,5.77,0.61,6.13,10.82,39.94,29.1,197.62,,Yes,services
+117,HCIN Networks Private Limited,275,354,50.09,2.93,23.21,34.17,92.32,740.83,-15.91,0.67,No,services
+118,Hella India Lighting Unlisted Shares,925,344,11.88,1.86,17.67,16.6,16.47,30.61,46.15,0.26,No,manufacturing
+119,Martin And Harris Laboratories Limited Unlisted Shares,850,340,8.49,0.53,3.28,6.33,-11.4,-24.41,73.08,0.01,Yes,chemical
+120,Inkel Limited Unlisted Shares,19,338,10.92,1.5,11.08,14.36,3.21,99.1,60,0.55,Yes,healthcare
+121,Archit Nuwood Unlisted Shares,270,315.36,,,74.87,57.25,N/A,N/A,25,0.02,No,services
+122,ADIANCE TECHNOLOGIES Unlisted Shares,2200,307,95.36,9.18,16.05,13.72,N/A,N/A,-684.77,0.43,Yes,construction
+123,Matrix Gas And Renewables Unlisted Shares,115,304,8.22,0.7,10.75,8.76,3578.77,1927.59,-266.67,0.06,No,consumer
+124,NCL Buildtek Limited (Previously NCL Alltek & Seccolor Limited) Unlisted Shares,245,283,10.5,1.4,13.66,14.02,3.32,83.25,81.63,0.44,Yes,services
+125,Empire Spices And Foods Limited Unlisted Shares,585,283,21.78,2.7,15.3,13.71,9.29,-3.64,121.48,0.52,Yes,finance
+126,ACS Technologies Limited Unlisted Shares,46,279,65.71,2.96,5.33,4.53,10.53,92.69,29.86,0.17,No,manufacturing
+127,Berar Finance Limited,225,278,,,,7.42,19.42,13.76,N/A,2.62,Yes,exchange
+128,Resin & Plastic Limited Unlisted Shares,650,271,22.6,2.29,12.57,11.09,-9.35,,72.6,,Yes,forging
+129,Hive Hostels,2400,270,415.94,147.78,15.71,37.59,N/A,N/A,,5.55,No,manufacturing
+130,ICEX (Indian Commodity Exchange) Limited Unlisted Shares,5,267,83.33,,49.62,-22.56,-92.93,N/A,168.42,,No,consumer
+131,Anugraha Valve Castings Limited Unlisted Shares,725,256,12.78,1.06,8.53,8.64,24.48,123.61,-2.22,0.37,No,finance
+132,India Carbon Limited Unlisted Shares,895,237,7.91,0.45,-1.15,5.75,-4.03,-39.14,-4225,,Yes,consumer
+133,Bombay Swadeshi Stores Limited Unlisted Shares,470,232,23.41,13.95,48.45,59.69,77.96,N/A,50.25,0.66,No,energy
+134,Maxvalue Credits And Investments Unlisted Shares,6,215,21.43,2.03,16.88,9.93,-9.61,N/A,143.1,2.23,No,manufacturing
+135,DSM Fresh Foods Zappfresh,128,209,26.56,5.35,20.85,20.18,N/A,N/A,-119.28,0.2,No,manufacturing
+136,GRE Renew Enertech Private Limited,185,195,19.72,6.38,32.21,32.45,N/A,N/A,51.99,0.15,No,metal
+137,Mohindra Fasteners Limited Unlisted Shares,325,191.43,11.97,1.62,14.49,14.83,13.75,13.78,48.15,0.34,Yes,manufacturing
+138,Usha Shriram Unlisted Share,195,192,-16.08,7.67,-6.86,-47.9,-20.11,N/A,152.67,1.93,No,consumer
+139,Madhur Iron And Steel (India),125,188,15.66,4.41,25.39,36.8,N/A,N/A,-120.75,1.78,No,services
+140,Ecosure Unlisted Shares,48,171,29.45,24.24,33.57,83.52,N/A,N/A,-154.95,2.67,No,engineering
+141,Bagrrys India Limited Unlisted Shares,2219,168.64,6.75,1.86,26.86,30.96,5.34,47.44,92.21,0.05,No,services
+142,RRP S4E Innovation Unlisted Shares Price,245,164,19.25,1.87,13.72,9.71,N/A,N/A,62.56,0.05,No,engineering
+143,Premier Cryogenics Limited Unlisted Shares,323,159,13.05,1.83,16.38,14.03,16.78,30.3,101.8,0.27,Yes,pharma
+144,Himalayan Heli Services,132,147,,,19.52,21.61,N/A,N/A,163.7,1.18,No,engineering
+145,RNIT Solutions & Services Unlisted Shares,125,144.625,82.78,10.12,14.86,12.33,61.59,154.59,-138.78,0.2,No,services
+146,Quality Enviro Engineers Private Limited,1200,142,,,39.42,29.09,-4.96,36.28,20.16,0.25,No,finance
+147,Ramaraju Surgical Cotton Mills Limited Unlisted Shares,235,136.54,-3.18,0.5,-2.51,-16.18,-1.48,N/A,158.82,1.69,Yes,manufacturing
+148,Roop Telsonic Ultrasonix Limited Unlisted Shares,188,131,20.13,2.36,14.46,11.74,8.75,61.37,14.52,0.13,Yes,energy
+149,ICL Fincorp Limited Unlisted Shares,26,129,1300,1.33,,0.08,27.64,-82.82,N/A,4.37,Yes,hospitals
+150,Delta Galaxy Unlisted Shares,58,128,9.12,1.01,41.07,51.85,238.34,937.75,,1.07,No,holdings
+151,Assam Carbon Products Limited Unlisted Shares,440,121,14.73,2.42,19.51,16.48,15.4,14.21,59.84,0.02,Yes,services
+152,Kusum Industrial Gases Limited Unlisted Shares,995,118,14.3,0.1,-0.01,0.73,N/A,N/A,-2175,,No,engineering
+153,Down Town Hospital Limited Unlisted Shares,375,113,18.75,1.65,14.14,10.34,14.95,20.39,125,,Yes,consumer
+154,NCL Holdings Unlisted Shares,95,110,60.9,1.44,0.44,2.72,-3.6,-36.26,2218.97,1.46,No,services
+155,Imperative Business Ventures Limited,135,108,23.77,8.54,13.61,36.2,N/A,N/A,106.59,3.38,No,chemical
+156,Adtech Systems Limited Unlisted Shares,65,99.94,25,1.77,9.56,8.28,-16.56,53.39,133.33,0.08,Yes,consumer
+157,Raviraj Process Control Ltd,85,98,14.03,2.69,26.34,26.37,N/A,N/A,-32.85,0.72,No,finance
+158,Apollo Fashion International Unlisted Shares,52,93.6,5.54,0.63,11.07,11.45,31.11,74.55,,0.24,No,services
+159,Amol Minechem Limited,995,82,6.88,1.28,16.95,18.57,19.9,104.9,57.15,0.1,Yes,engineering
+160,Market Simplified Unlisted Shares Price,36,77.0004,48.65,1.71,2.84,3.54,19,-14,151.5,,No,manufacturing
+161,Bazar India Unlisted Shares,25,75,78.13,1.87,-3.59,3.2,-9.67,-26.97,-1684.47,0.95,No,services
+162,Silverline Technologies Limited Unlisted Shares,12,71.982,,2.91,0.02,0.04,-36.08,-82.85,442.86,1.45,No,construction
+163,Optivalue Tek Consulting Limited,40,69,,,34.72,31.09,12.01,2.16,80.41,0.25,No,pharma
+164,Sri Vishnu Shankar Mill Limited Unlisted Shares,425,64,-2.95,0.31,-3.48,-11.22,-7.19,N/A,-3411.76,1.39,Yes,exchange
+165,The Scottish Assam (India) Limited Unlisted Shares,775,62,5.17,0.69,-3.18,15.04,-3.48,2.2,162,0.06,Yes,finance
+166,Zak Venture Ltd,135,60,,,13.24,14.56,7.68,-6.19,,2.08,No,consumer
+167,Hicks Thermometers India Limited Unlisted Shares,1800,59,24.01,1.32,9.42,7.11,-18.13,-44.77,73.5,0.12,No,manufacturing
+168,Calcutta Stock Exchange Unlisted Shares,919,56,67.67,0.28,-2.62,0.41,69.86,82.21,-2050.79,,Yes,pharma
+169,Rydak Syndicate Limited Unlisted Shares,575,55.78,11.15,0.69,7.6,7.05,-1.21,-53.36,88.89,0.11,Yes,manufacturing
+170,Livespace Interiors Pvt Ltd,300,53,,,20.42,75.47,44.92,347.21,,2.91,No,chemical
+171,Auckland Jute Co. Limited Unlisted Shares,189,52,33.45,1.77,-1.3,5.3,N/A,N/A,215.36,,No,services
+172,Deys Medical Stores (Mfg) Limited Unlisted Shares,539,45.8797,4.32,0.65,17.3,15.02,2.3,24.33,75.28,0.03,No,engineering
+173,GG Automotive Gears Limited Unlisted Shares,42,35,7.89,1.1,13.81,13.96,41.61,224.77,98.92,0.86,No,manufacturing
