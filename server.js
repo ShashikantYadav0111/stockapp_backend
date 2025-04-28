@@ -12,7 +12,7 @@ const app = express();
 connectDb();
 
 const corsOptions = {
-    origin: ['http://localhost:4200', 'https://your-production-site.com'], // Allow only these domains
+    origin: ['http://localhost:4200', 'https://taupe-moonbeam-084ad1.netlify.app/'], // Allow only these domains
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
   };
 
