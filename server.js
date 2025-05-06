@@ -12,7 +12,7 @@ const app = express();
 connectDb();
 
 const corsOptions = {
-    origin: ['http://localhost:4200', 'https://unlisted-equities.netlify.app'], // Allow only these domains
+    origin: ['http://localhost:4200', 'https://unlistedequities.com'], // Allow only these domains
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
   };
 
