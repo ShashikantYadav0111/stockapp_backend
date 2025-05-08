@@ -1,10 +1,10 @@
 [
   {
-    "name": "NSE India Limited Unlisted Shares",
-    "price": 1625,
-    "mcap": 402188,
-    "pe": 47.85,
-    "pb": 16.78,
+    "name": "NSE India Limited",
+    "price": 1650,
+    "mcap": 408375,
+    "pe": 48.59,
+    "pb": 17.03,
     "roce": 46.6,
     "roe": 35.06,
     "three_yr_rev_charge": 28.66,
@@ -15,22 +15,22 @@
     "sector": "finance"
   },
   {
-    "name": "TATA Capital Unlisted Share",
-    "price": 975,
-    "mcap": 360750,
-    "pe": 108.45,
-    "pb": 14.67,
+    "name": "TATA Capital",
+    "price": 925,
+    "mcap": 342250,
+    "pe": 102.89,
+    "pb": 13.92,
     "roce": null,
     "roe": 13.53,
     "three_yr_rev_charge": 33.23,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 5.68,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "SBI Mutual Fund Unlisted Shares",
+    "name": "SBI Mutual Fund",
     "price": 2575,
     "mcap": 130383,
     "pe": 62.9,
@@ -45,7 +45,7 @@
     "sector": "finance"
   },
   {
-    "name": "Nayara Energy (Formerly Essar Oil) Limited Unlisted Shares",
+    "name": "Nayara Energy (Formerly Essar Oil) Limited",
     "price": 700,
     "mcap": 104339,
     "pe": 8.47,
@@ -55,27 +55,27 @@
     "three_yr_rev_charge": 13.83,
     "three_yr_pat_charge": null,
     "pbtbcfo": 17.51,
-    "de": 0.27,
+    "de": null,
     "ds": null,
     "sector": "energy"
   },
   {
-    "name": "HDB Financial Services Limited Unlisted Shares",
-    "price": 975,
-    "mcap": 77327,
-    "pe": 35.53,
-    "pb": 4.89,
+    "name": "HDB Financial Services Limited",
+    "price": 965,
+    "mcap": 76534,
+    "pe": 35.17,
+    "pb": 4.83,
     "roce": null,
     "roe": 13.75,
     "three_yr_rev_charge": 14.64,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 5.15,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "Capgemini Technology Services India Limited Unlisted Shares",
+    "name": "Capgemini Technology Services India Limited",
     "price": 12500,
     "mcap": 74089,
     "pe": 22.82,
@@ -90,7 +90,7 @@
     "sector": "it"
   },
   {
-    "name": "Anheuser Busch Inbev (Sabmiller) India Limited Unlisted Shares",
+    "name": "Anheuser Busch Inbev (Sabmiller) India Limited",
     "price": 600,
     "mcap": 55704,
     "pe": -127.12,
@@ -100,27 +100,42 @@
     "three_yr_rev_charge": 47.35,
     "three_yr_pat_charge": null,
     "pbtbcfo": 317.65,
-    "de": 1.25,
+    "de": null,
     "ds": null,
     "sector": "fmcg"
   },
   {
-    "name": "ORAVEL STAYS LIMITED (Oyo Unlisted Shares)",
-    "price": 52,
-    "mcap": 33800,
-    "pe": 148.57,
-    "pb": 37.41,
+    "name": "ORAVEL STAYS LIMITED (Oyo)",
+    "price": 49,
+    "mcap": 31850,
+    "pe": 140,
+    "pb": 35.25,
     "roce": 11.28,
     "roe": 25.53,
     "three_yr_rev_charge": 6.17,
     "three_yr_pat_charge": null,
     "pbtbcfo": 84.46,
-    "de": 4,
+    "de": null,
     "ds": null,
     "sector": "hotels"
   },
   {
-    "name": "SBI General Insurance Unlisted Shares",
+    "name": "Goa Shipyard Limited",
+    "price": 2400,
+    "mcap": 27936,
+    "pe": 103.09,
+    "pb": 19.36,
+    "roce": 1.88,
+    "roe": 18.84,
+    "three_yr_rev_charge": 53.91,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": 525.49,
+    "de": null,
+    "ds": null,
+    "sector": "insurance"
+  },
+  {
+    "name": "SBI General Insurance",
     "price": 1150,
     "mcap": 25689,
     "pe": 107.48,
@@ -132,14 +147,29 @@
     "pbtbcfo": null,
     "de": null,
     "ds": null,
-    "sector": "insurance"
+    "sector": "finance"
   },
   {
-    "name": "NSDL Unlisted Shares",
-    "price": 1100,
-    "mcap": 22000,
-    "pe": 80,
-    "pb": 13.05,
+    "name": "Big Basket",
+    "price": 1950,
+    "mcap": 21781.5,
+    "pe": -15.39,
+    "pb": 24.75,
+    "roce": -52.86,
+    "roe": -160.95,
+    "three_yr_rev_charge": 8.81,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": 111.55,
+    "de": null,
+    "ds": null,
+    "sector": "fmcg"
+  },
+  {
+    "name": "NSDL",
+    "price": 1025,
+    "mcap": 20500,
+    "pe": 74.55,
+    "pb": 12.16,
     "roce": 15.5,
     "roe": 16.33,
     "three_yr_rev_charge": 29.08,
@@ -150,22 +180,7 @@
     "sector": "finance"
   },
   {
-    "name": "Big Basket Unlisted Shares",
-    "price": 1950,
-    "mcap": 21781.5,
-    "pe": -15.39,
-    "pb": 24.75,
-    "roce": -52.86,
-    "roe": -160.95,
-    "three_yr_rev_charge": 8.81,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": 111.55,
-    "de": 1.8,
-    "ds": null,
-    "sector": "fmcg"
-  },
-  {
-    "name": "Cochin International Airport Limited Unlisted Shares",
+    "name": "Cochin International Airport Limited",
     "price": 425,
     "mcap": 20324,
     "pe": 45.36,
@@ -175,34 +190,19 @@
     "three_yr_rev_charge": 51.88,
     "three_yr_pat_charge": null,
     "pbtbcfo": 81.99,
-    "de": 0.25,
-    "ds": null,
-    "sector": "finance"
-  },
-  {
-    "name": "Hero Fincorp Limited Unlisted Shares",
-    "price": 1345,
-    "mcap": 17081.5,
-    "pe": 26.81,
-    "pb": 2.96,
-    "roce": null,
-    "roe": 11.05,
-    "three_yr_rev_charge": 32.82,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": null,
-    "de": 7.38,
+    "de": null,
     "ds": null,
     "sector": "miscellaneous"
   },
   {
-    "name": "Care Health (Previously Religare Health) Insurance Company Limited Unlisted Shares",
-    "price": 172,
-    "mcap": 16719,
-    "pe": 54.78,
-    "pb": 17.03,
+    "name": "Hero Fincorp Limited",
+    "price": 1350,
+    "mcap": 17199,
+    "pe": 156.43,
+    "pb": 2.98,
     "roce": null,
-    "roe": 31.38,
-    "three_yr_rev_charge": 38.46,
+    "roe": 1.91,
+    "three_yr_rev_charge": 23.94,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
     "de": null,
@@ -210,22 +210,22 @@
     "sector": "insurance"
   },
   {
-    "name": "Inox Leasing And Finance Limited Unlisted Shares",
-    "price": 16400,
-    "mcap": 16236,
-    "pe": 46.13,
-    "pb": 1.71,
-    "roce": 4.77,
-    "roe": 3.7,
-    "three_yr_rev_charge": 10.08,
+    "name": "Care Health (Previously Religare Health) Insurance Company Limited",
+    "price": 168,
+    "mcap": 16330,
+    "pe": 53.5,
+    "pb": 16.63,
+    "roce": null,
+    "roe": 31.38,
+    "three_yr_rev_charge": 38.46,
     "three_yr_pat_charge": null,
-    "pbtbcfo": 94.3,
-    "de": 0.36,
+    "pbtbcfo": null,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "Boat Unlisted Share Price (Imagine Marketing)",
+    "name": "Boat Price (Imagine Marketing)",
     "price": 1675,
     "mcap": 16105,
     "pe": -303.99,
@@ -235,22 +235,22 @@
     "three_yr_rev_charge": 3.94,
     "three_yr_pat_charge": null,
     "pbtbcfo": -13333.33,
-    "de": 1.82,
+    "de": null,
     "ds": null,
     "sector": "electronics"
   },
   {
-    "name": "HDFC Securities Limited Unlisted Shares",
-    "price": 9750,
-    "mcap": 15571,
-    "pe": 13.85,
-    "pb": 4.64,
+    "name": "HDFC Securities Limited",
+    "price": 9650,
+    "mcap": 15411,
+    "pe": 13.71,
+    "pb": 4.59,
     "roce": 20.2,
     "roe": 33.58,
     "three_yr_rev_charge": 31.97,
     "three_yr_pat_charge": null,
     "pbtbcfo": 101.28,
-    "de": 2.37,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
@@ -270,7 +270,22 @@
     "sector": "insurance"
   },
   {
-    "name": "Vikram Solar Unlisted Shares",
+    "name": "Inox Leasing And Finance Limited",
+    "price": 15500,
+    "mcap": 15345,
+    "pe": 43.59,
+    "pb": 1.61,
+    "roce": 4.77,
+    "roe": 3.7,
+    "three_yr_rev_charge": 10.08,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": 94.3,
+    "de": null,
+    "ds": null,
+    "sector": "energy"
+  },
+  {
+    "name": "Vikram Solar",
     "price": 398,
     "mcap": 12688,
     "pe": 158.57,
@@ -280,22 +295,22 @@
     "three_yr_rev_charge": 20.48,
     "three_yr_pat_charge": null,
     "pbtbcfo": 38.1,
-    "de": 1.82,
+    "de": null,
     "ds": null,
-    "sector": "energy"
+    "sector": "finance"
   },
   {
     "name": "Hinduja Leyland Finance Limited",
-    "price": 230,
-    "mcap": 12541,
-    "pe": 19.73,
-    "pb": 1.84,
+    "price": 225,
+    "mcap": 12268,
+    "pe": 19.3,
+    "pb": 1.8,
     "roce": null,
     "roe": 9.34,
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 5.14,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
@@ -310,16 +325,16 @@
     "three_yr_rev_charge": 47.79,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 2.87,
+    "de": null,
     "ds": null,
-    "sector": "finance"
+    "sector": "investment"
   },
   {
     "name": "ASK Investment Managers Limited",
-    "price": 1375,
-    "mcap": 11598,
-    "pe": 28.78,
-    "pb": 7.43,
+    "price": 1325,
+    "mcap": 11176,
+    "pe": 27.73,
+    "pb": 7.16,
     "roce": 29.57,
     "roe": 25.85,
     "three_yr_rev_charge": 8.14,
@@ -340,12 +355,12 @@
     "three_yr_rev_charge": 76.17,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 2.35,
+    "de": null,
     "ds": null,
     "sector": "investment"
   },
   {
-    "name": "Incred Holdings Limited Unlisted Shares",
+    "name": "Incred Holdings Limited",
     "price": 162,
     "mcap": 10397,
     "pe": 33.68,
@@ -355,27 +370,27 @@
     "three_yr_rev_charge": 57.33,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 1.48,
-    "ds": null,
-    "sector": "investment"
-  },
-  {
-    "name": "Motilal Oswal Home Finance Limited Unlisted Shares",
-    "price": 16,
-    "mcap": 9660.64,
-    "pe": 72.73,
-    "pb": 7.51,
-    "roce": null,
-    "roe": 10.26,
-    "three_yr_rev_charge": 6.74,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": null,
-    "de": 2.33,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "Indian Potash Limited Unlisted Share",
+    "name": "Motilal Oswal Home Finance Limited",
+    "price": 16,
+    "mcap": 9684.8,
+    "pe": 76.19,
+    "pb": 6.78,
+    "roce": null,
+    "roe": 9.1,
+    "three_yr_rev_charge": 10.76,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": null,
+    "de": null,
+    "ds": null,
+    "sector": "chemical"
+  },
+  {
+    "name": "Indian Potash Limited",
     "price": 3100,
     "mcap": 8865,
     "pe": 7.05,
@@ -385,12 +400,12 @@
     "three_yr_rev_charge": 6.39,
     "three_yr_pat_charge": null,
     "pbtbcfo": -367.83,
-    "de": 0.48,
+    "de": null,
     "ds": null,
-    "sector": "chemical"
+    "sector": "packaging"
   },
   {
-    "name": "Manjushree Technopack India Limited Unlisted Shares",
+    "name": "Manjushree Technopack India Limited",
     "price": 895,
     "mcap": 8446,
     "pe": 59.91,
@@ -400,12 +415,12 @@
     "three_yr_rev_charge": 20.11,
     "three_yr_pat_charge": null,
     "pbtbcfo": 94.12,
-    "de": 0.75,
+    "de": null,
     "ds": null,
-    "sector": "packaging"
+    "sector": "steel"
   },
   {
-    "name": "Signify Innovations (Previously Phillips Lighting) India Limited Unlisted Shares",
+    "name": "Signify Innovations (Previously Phillips Lighting) India Limited",
     "price": 1325,
     "mcap": 7621,
     "pe": 28.33,
@@ -417,10 +432,10 @@
     "pbtbcfo": 72.54,
     "de": null,
     "ds": null,
-    "sector": "steel"
+    "sector": "construction"
   },
   {
-    "name": "Electrosteel Steels Limited Unlisted Shares",
+    "name": "Electrosteel Steels Limited",
     "price": 40,
     "mcap": 7396,
     "pe": -7.65,
@@ -430,27 +445,27 @@
     "three_yr_rev_charge": 13.57,
     "three_yr_pat_charge": null,
     "pbtbcfo": 785.09,
-    "de": 0.5,
+    "de": null,
     "ds": null,
-    "sector": "construction"
+    "sector": "insurance"
   },
   {
-    "name": "CSK Unlisted Shares",
+    "name": "CSK",
     "price": 189,
     "mcap": 7171,
     "pe": 35.59,
     "pb": 13.58,
-    "roce": 49.04,
+    "roce": 49.03,
     "roe": 38.16,
     "three_yr_rev_charge": 42.8,
     "three_yr_pat_charge": null,
     "pbtbcfo": 125,
     "de": null,
     "ds": null,
-    "sector": "insurance"
+    "sector": "sports"
   },
   {
-    "name": "Shriram Life Insurance Co. Ltd Unlisted Shares",
+    "name": "Shriram Life Insurance Co. Ltd",
     "price": 400,
     "mcap": 7166.8,
     "pe": 45.35,
@@ -462,14 +477,14 @@
     "pbtbcfo": null,
     "de": null,
     "ds": null,
-    "sector": "sports"
+    "sector": "energy"
   },
   {
     "name": "Parag Parikh Financial Advisory Services Ltd. (PPFAS)",
-    "price": 8200,
-    "mcap": 6288,
-    "pe": 57.63,
-    "pb": 19.92,
+    "price": 8250,
+    "mcap": 6326,
+    "pe": 57.98,
+    "pb": 20.04,
     "roce": 47.15,
     "roe": 35.7,
     "three_yr_rev_charge": null,
@@ -477,25 +492,10 @@
     "pbtbcfo": 69.61,
     "de": null,
     "ds": null,
-    "sector": "energy"
-  },
-  {
-    "name": "Sterlite Power Transmission Limited Unlisted Shares",
-    "price": 498,
-    "mcap": 6076,
-    "pe": 26.42,
-    "pb": 4.55,
-    "roce": 20.16,
-    "roe": 17.25,
-    "three_yr_rev_charge": -2.73,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": -434.47,
-    "de": 0.58,
-    "ds": null,
     "sector": "finance"
   },
   {
-    "name": "Carrier Airconditioning & Refrigeration Limited Unlisted Shares",
+    "name": "Carrier Airconditioning & Refrigeration Limited",
     "price": 545,
     "mcap": 5798,
     "pe": 38.41,
@@ -510,7 +510,7 @@
     "sector": "consumer"
   },
   {
-    "name": "PharmEasy Unlisted Shares",
+    "name": "PharmEasy",
     "price": 9,
     "mcap": 5784,
     "pe": -2.28,
@@ -520,27 +520,27 @@
     "three_yr_rev_charge": -0.57,
     "three_yr_pat_charge": null,
     "pbtbcfo": 9.44,
-    "de": 1.58,
+    "de": null,
     "ds": null,
     "sector": "pharma"
   },
   {
-    "name": "ORBIS FINANCIAL CORPORATION Unlisted Shares",
-    "price": 455,
-    "mcap": 5539,
-    "pe": 39.29,
-    "pb": 7.94,
-    "roce": 35.63,
-    "roe": 20.5,
-    "three_yr_rev_charge": 65.93,
+    "name": "Sterlite Power Transmission Limited",
+    "price": 465,
+    "mcap": 5673,
+    "pe": 24.67,
+    "pb": 4.25,
+    "roce": 20.16,
+    "roe": 17.25,
+    "three_yr_rev_charge": -2.73,
     "three_yr_pat_charge": null,
-    "pbtbcfo": 9.24,
+    "pbtbcfo": -434.47,
     "de": null,
     "ds": null,
     "sector": "consumer"
   },
   {
-    "name": "Philips India Limited Unlisted Shares",
+    "name": "Philips India Limited",
     "price": 960,
     "mcap": 5522,
     "pe": 21.49,
@@ -555,22 +555,22 @@
     "sector": "finance"
   },
   {
-    "name": "Otis Elevator (India) Limited Unlisted Shares",
-    "price": 4250,
-    "mcap": 5018,
-    "pe": 23.9,
-    "pb": 18,
-    "roce": 84.82,
-    "roe": 78.12,
-    "three_yr_rev_charge": 19.3,
+    "name": "ORBIS FINANCIAL CORPORATION",
+    "price": 450,
+    "mcap": 5478,
+    "pe": 38.86,
+    "pb": 7.85,
+    "roce": 35.63,
+    "roe": 20.5,
+    "three_yr_rev_charge": 65.93,
     "three_yr_pat_charge": null,
-    "pbtbcfo": 103.53,
+    "pbtbcfo": 9.24,
     "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
   {
-    "name": "Taparia Tools Limited Unlisted Shares",
+    "name": "Taparia Tools Limited",
     "price": 3200,
     "mcap": 4857,
     "pe": 48.57,
@@ -585,7 +585,22 @@
     "sector": "forging"
   },
   {
-    "name": "Metropolitan Stock Exchange (MSEI) Unlisted Shares",
+    "name": "Otis Elevator (India) Limited",
+    "price": 3900,
+    "mcap": 4605,
+    "pe": 21.93,
+    "pb": 16.52,
+    "roce": 84.82,
+    "roe": 78.12,
+    "three_yr_rev_charge": 19.3,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": 103.53,
+    "de": null,
+    "ds": null,
+    "sector": "banking"
+  },
+  {
+    "name": "Metropolitan Stock Exchange (MSEI)",
     "price": 7,
     "mcap": 4200,
     "pe": -87.5,
@@ -597,10 +612,10 @@
     "pbtbcfo": 105.56,
     "de": null,
     "ds": null,
-    "sector": "banking"
+    "sector": "finance"
   },
   {
-    "name": "Arohan Financial Services Unlisted Shares",
+    "name": "Arohan Financial Services",
     "price": 260,
     "mcap": 4093,
     "pe": 13.03,
@@ -610,12 +625,12 @@
     "three_yr_rev_charge": 33.27,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 2.93,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "BVG India Limited Unlisted Share",
+    "name": "BVG India Limited",
     "price": 315,
     "mcap": 4049,
     "pe": 24.4,
@@ -625,12 +640,12 @@
     "three_yr_rev_charge": 18.26,
     "three_yr_pat_charge": null,
     "pbtbcfo": 50.14,
-    "de": 0.39,
+    "de": null,
     "ds": null,
-    "sector": "finance"
+    "sector": "services"
   },
   {
-    "name": "Bharat Nidhi (Bharat Bank) Unlisted Shares",
+    "name": "Bharat Nidhi (Bharat Bank)",
     "price": 13500,
     "mcap": 3874,
     "pe": 7.69,
@@ -642,10 +657,10 @@
     "pbtbcfo": 220.93,
     "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "it"
   },
   {
-    "name": "ESDS Unlisted Shares",
+    "name": "ESDS",
     "price": 385,
     "mcap": 3866,
     "pe": 234.76,
@@ -655,27 +670,27 @@
     "three_yr_rev_charge": 20.04,
     "three_yr_pat_charge": null,
     "pbtbcfo": 81.65,
-    "de": 0.41,
+    "de": null,
     "ds": null,
-    "sector": "it"
+    "sector": "services"
   },
   {
     "name": "Pace Digitek Infra Private Limited",
-    "price": 215,
-    "mcap": 3837,
-    "pe": 15.82,
-    "pb": 6.79,
+    "price": 208,
+    "mcap": 3712,
+    "pe": 15.31,
+    "pb": 6.57,
     "roce": 41.61,
     "roe": 43.69,
     "three_yr_rev_charge": 146.28,
     "three_yr_pat_charge": null,
     "pbtbcfo": 87.71,
-    "de": 0.8,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "manufacturing"
   },
   {
-    "name": "Merino Industries Limited Unlisted Shares",
+    "name": "Merino Industries Limited",
     "price": 3300,
     "mcap": 3689,
     "pe": 30.24,
@@ -685,12 +700,12 @@
     "three_yr_rev_charge": 13.51,
     "three_yr_pat_charge": null,
     "pbtbcfo": 130.43,
-    "de": 0.53,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "mining"
   },
   {
-    "name": "PNB Finance & Industries Limited Unlisted Shares",
+    "name": "PNB Finance & Industries Limited",
     "price": 11500,
     "mcap": 3680,
     "pe": 511.11,
@@ -702,10 +717,10 @@
     "pbtbcfo": 510,
     "de": null,
     "ds": null,
-    "sector": "mining"
+    "sector": "manufacturing"
   },
   {
-    "name": "Hutti Gold Mines Company Limited Unlisted Shares",
+    "name": "Hutti Gold Mines Company Limited",
     "price": 119838,
     "mcap": 3550,
     "pe": 14.85,
@@ -717,10 +732,10 @@
     "pbtbcfo": 43.13,
     "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "consumer"
   },
   {
-    "name": "TRL Krosaki Refractories Limited Unlisted Shares",
+    "name": "TRL Krosaki Refractories Limited",
     "price": 1695,
     "mcap": 3543,
     "pe": 14.58,
@@ -730,12 +745,27 @@
     "three_yr_rev_charge": 14.07,
     "three_yr_pat_charge": null,
     "pbtbcfo": 74.21,
-    "de": 0.17,
+    "de": null,
     "ds": null,
-    "sector": "consumer"
+    "sector": "manufacturing"
   },
   {
-    "name": "Philips Domestic Appliances India Unlisted Shares",
+    "name": "Onix Renewable Limited",
+    "price": 13500,
+    "mcap": 3368,
+    "pe": 85.49,
+    "pb": 31.34,
+    "roce": 30.45,
+    "roe": 40.42,
+    "three_yr_rev_charge": 87.35,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": 94.66,
+    "de": null,
+    "ds": null,
+    "sector": "energy"
+  },
+  {
+    "name": "Philips Domestic Appliances India",
     "price": 585,
     "mcap": 3365,
     "pe": 27.8,
@@ -747,40 +777,10 @@
     "pbtbcfo": 97.28,
     "de": null,
     "ds": null,
-    "sector": "manufacturing"
-  },
-  {
-    "name": "Goa Shipyard Limited Unlisted Shares",
-    "price": 284,
-    "mcap": 3306,
-    "pe": 12.2,
-    "pb": 2.29,
-    "roce": 1.88,
-    "roe": 18.84,
-    "three_yr_rev_charge": 53.91,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": 525.49,
-    "de": null,
-    "ds": null,
-    "sector": "energy"
-  },
-  {
-    "name": "Onix Renewable Limited",
-    "price": 12750,
-    "mcap": 3181,
-    "pe": 80.74,
-    "pb": 29.6,
-    "roce": 30.45,
-    "roe": 40.42,
-    "three_yr_rev_charge": 87.35,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": 94.66,
-    "de": 0.92,
-    "ds": null,
     "sector": "miscellaneous"
   },
   {
-    "name": "Camac Commercial Company Limited Unlisted Shares",
+    "name": "Camac Commercial Company Limited",
     "price": 35000,
     "mcap": 3089.8,
     "pe": -333.3,
@@ -795,7 +795,7 @@
     "sector": "power"
   },
   {
-    "name": "C&S Electric Limited Unlisted Shares",
+    "name": "C&S Electric Limited",
     "price": 695,
     "mcap": 3071.9,
     "pe": -65.38,
@@ -820,7 +820,7 @@
     "three_yr_rev_charge": 41.84,
     "three_yr_pat_charge": null,
     "pbtbcfo": 74.76,
-    "de": 2.53,
+    "de": null,
     "ds": null,
     "sector": "construction"
   },
@@ -835,7 +835,7 @@
     "three_yr_rev_charge": 96.96,
     "three_yr_pat_charge": null,
     "pbtbcfo": 25,
-    "de": 0.21,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
@@ -850,12 +850,27 @@
     "three_yr_rev_charge": 16.07,
     "three_yr_pat_charge": null,
     "pbtbcfo": 109.43,
-    "de": 0.25,
+    "de": null,
     "ds": null,
     "sector": "metal"
   },
   {
-    "name": "Sambhv Steel Unlisted Shares",
+    "name": "IKF Finance Limited",
+    "price": 425,
+    "mcap": 2982,
+    "pe": 29.23,
+    "pb": 3.12,
+    "roce": null,
+    "roe": 10.78,
+    "three_yr_rev_charge": null,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": null,
+    "de": null,
+    "ds": null,
+    "sector": "finance"
+  },
+  {
+    "name": "Sambhv Steel",
     "price": 118,
     "mcap": 2844,
     "pe": 34.3,
@@ -865,12 +880,12 @@
     "three_yr_rev_charge": 25.36,
     "three_yr_pat_charge": null,
     "pbtbcfo": 86.08,
-    "de": 0.61,
+    "de": null,
     "ds": null,
-    "sector": "finance"
+    "sector": "services"
   },
   {
-    "name": "Fincare Business Finance Unlisted Shares",
+    "name": "Fincare Business Finance",
     "price": 85,
     "mcap": 2805,
     "pe": 34.27,
@@ -880,12 +895,12 @@
     "three_yr_rev_charge": 14.47,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 3.08,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "hotels"
   },
   {
-    "name": "Indofil Industries Limited Unlisted Shares",
+    "name": "Indofil Industries Limited",
     "price": 1195,
     "mcap": 2744,
     "pe": 8.26,
@@ -895,16 +910,16 @@
     "three_yr_rev_charge": 4.79,
     "three_yr_pat_charge": null,
     "pbtbcfo": 96.38,
-    "de": 0.09,
+    "de": null,
     "ds": null,
-    "sector": "hotels"
+    "sector": "consumer"
   },
   {
-    "name": "Studds Accessories Limited Unlisted Shares",
-    "price": 695,
-    "mcap": 2735,
-    "pe": 48,
-    "pb": 6.98,
+    "name": "Studds Accessories Limited",
+    "price": 685,
+    "mcap": 2696,
+    "pe": 47.31,
+    "pb": 6.88,
     "roce": 18.33,
     "roe": 14.74,
     "three_yr_rev_charge": 6.89,
@@ -915,7 +930,7 @@
     "sector": "consumer"
   },
   {
-    "name": "Bharat Hotels Unlisted Shares",
+    "name": "Bharat Hotels",
     "price": 345,
     "mcap": 2622,
     "pe": 30.83,
@@ -925,27 +940,12 @@
     "three_yr_rev_charge": 67.02,
     "three_yr_pat_charge": null,
     "pbtbcfo": 103.59,
-    "de": 1.29,
-    "ds": null,
-    "sector": "consumer"
-  },
-  {
-    "name": "Bira Unlisted Shares",
-    "price": 415,
-    "mcap": 2490,
-    "pe": -3.32,
-    "pb": null,
-    "roce": -266.49,
-    "roe": 206.85,
-    "three_yr_rev_charge": -5.72,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": 13.71,
-    "de": -1.64,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "Digvijay Finlease Unlisted Shares",
+    "name": "Digvijay Finlease",
     "price": 1875,
     "mcap": 2484.38,
     "pe": 57.78,
@@ -960,22 +960,22 @@
     "sector": "electronics"
   },
   {
-    "name": "Hindusthan Engineering & Industries Limited Unlisted Shares",
-    "price": 1550,
-    "mcap": 2280,
-    "pe": 11.01,
-    "pb": 1.62,
-    "roce": 14.6,
-    "roe": 14.8,
-    "three_yr_rev_charge": 70.89,
+    "name": "Bira",
+    "price": 390,
+    "mcap": 2340,
+    "pe": -3.12,
+    "pb": null,
+    "roce": -266.49,
+    "roe": 206.85,
+    "three_yr_rev_charge": -5.72,
     "three_yr_pat_charge": null,
-    "pbtbcfo": -15.33,
-    "de": 0.29,
+    "pbtbcfo": 13.71,
+    "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
   {
-    "name": "LAVA International Limited Unlisted Shares",
+    "name": "LAVA International Limited",
     "price": 42,
     "mcap": 2273,
     "pe": 66.67,
@@ -985,7 +985,7 @@
     "three_yr_rev_charge": -21.24,
     "three_yr_pat_charge": null,
     "pbtbcfo": 137.8,
-    "de": 0.12,
+    "de": null,
     "ds": null,
     "sector": "construction"
   },
@@ -1000,27 +1000,27 @@
     "three_yr_rev_charge": 330.74,
     "three_yr_pat_charge": null,
     "pbtbcfo": -50,
-    "de": 0.02,
+    "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
   {
-    "name": "Utkarsh Micro Finance(Core Invest) Unlisted Shares",
-    "price": 225,
-    "mcap": 2222,
-    "pe": 6.73,
-    "pb": 0.76,
-    "roce": null,
-    "roe": 11.34,
-    "three_yr_rev_charge": 27.09,
+    "name": "Hindusthan Engineering & Industries Limited",
+    "price": 1475,
+    "mcap": 2169,
+    "pe": 10.48,
+    "pb": 1.54,
+    "roce": 14.6,
+    "roe": 14.8,
+    "three_yr_rev_charge": 70.89,
     "three_yr_pat_charge": null,
-    "pbtbcfo": null,
-    "de": 1.2,
+    "pbtbcfo": -15.33,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "Polymatech Unlisted Shares",
+    "name": "Polymatech",
     "price": 54,
     "mcap": 2152,
     "pe": 8.97,
@@ -1030,9 +1030,24 @@
     "three_yr_rev_charge": 211.3,
     "three_yr_pat_charge": null,
     "pbtbcfo": 83.55,
-    "de": 0.03,
+    "de": null,
     "ds": null,
     "sector": "energy"
+  },
+  {
+    "name": "Utkarsh Micro Finance(Core Invest)",
+    "price": 205,
+    "mcap": 2024,
+    "pe": 6.13,
+    "pb": 0.69,
+    "roce": null,
+    "roe": 11.34,
+    "three_yr_rev_charge": 27.09,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": null,
+    "de": null,
+    "ds": null,
+    "sector": "holdings"
   },
   {
     "name": "Power Exchange India Limited (PXIL)",
@@ -1045,12 +1060,12 @@
     "three_yr_rev_charge": 23.82,
     "three_yr_pat_charge": null,
     "pbtbcfo": 687.5,
-    "de": 0.16,
+    "de": null,
     "ds": null,
-    "sector": "holdings"
+    "sector": "finance"
   },
   {
-    "name": "Axles India Limited Unlisted Shares",
+    "name": "Axles India Limited",
     "price": 775,
     "mcap": 1976,
     "pe": 22.97,
@@ -1060,12 +1075,12 @@
     "three_yr_rev_charge": 22.51,
     "three_yr_pat_charge": null,
     "pbtbcfo": 24.81,
-    "de": 0.3,
+    "de": null,
     "ds": null,
-    "sector": "finance"
+    "sector": "consumer"
   },
   {
-    "name": "KURLON Enterprise Limited Unlisted Shares",
+    "name": "KURLON Enterprise Limited",
     "price": 525,
     "mcap": 1918.35,
     "pe": -37.61,
@@ -1077,25 +1092,25 @@
     "pbtbcfo": -433.33,
     "de": null,
     "ds": null,
-    "sector": "consumer"
+    "sector": "manufacturing"
   },
   {
     "name": "Lords Mark Industries Limited",
-    "price": 102,
-    "mcap": 1840,
-    "pe": 161.9,
-    "pb": 19.62,
+    "price": 105,
+    "mcap": 1895,
+    "pe": 166.67,
+    "pb": 20.19,
     "roce": 10.83,
     "roe": 12.73,
     "three_yr_rev_charge": 61.42,
     "three_yr_pat_charge": null,
     "pbtbcfo": -55.53,
-    "de": 2.43,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "engineering"
   },
   {
-    "name": "Mohan Meakin Limited Unlisted Shares",
+    "name": "Mohan Meakin Limited",
     "price": 2150,
     "mcap": 1829,
     "pe": 21.52,
@@ -1105,12 +1120,12 @@
     "three_yr_rev_charge": 18.67,
     "three_yr_pat_charge": null,
     "pbtbcfo": 60.36,
-    "de": 0.01,
+    "de": null,
     "ds": null,
-    "sector": "engineering"
+    "sector": "airports"
   },
   {
-    "name": "GKN Driveline India Limited Unlisted Shares",
+    "name": "GKN Driveline India Limited",
     "price": 1425,
     "mcap": 1820,
     "pe": 21.16,
@@ -1122,10 +1137,10 @@
     "pbtbcfo": 74.83,
     "de": null,
     "ds": null,
-    "sector": "airports"
+    "sector": "manufacturing"
   },
   {
-    "name": "Frick India Limited Unlisted Shares",
+    "name": "Frick India Limited",
     "price": 2975,
     "mcap": 1785,
     "pe": 42.5,
@@ -1135,24 +1150,24 @@
     "three_yr_rev_charge": 31.07,
     "three_yr_pat_charge": null,
     "pbtbcfo": 2.17,
-    "de": 0.08,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "hospitals"
   },
   {
-    "name": "Kannur International Airport Limited Unlisted Shares",
-    "price": 132,
-    "mcap": 1767,
-    "pe": -10.45,
-    "pb": 2.54,
+    "name": "Kannur International Airport Limited",
+    "price": 128,
+    "mcap": 1713,
+    "pe": -10.13,
+    "pb": 2.47,
     "roce": -3.41,
     "roe": -28.44,
     "three_yr_rev_charge": 12.66,
     "three_yr_pat_charge": null,
     "pbtbcfo": 190,
-    "de": 1.96,
+    "de": null,
     "ds": null,
-    "sector": "hospitals"
+    "sector": "exchange"
   },
   {
     "name": "Royalcare Super Speciality Hospitals",
@@ -1165,12 +1180,12 @@
     "three_yr_rev_charge": 5.18,
     "three_yr_pat_charge": null,
     "pbtbcfo": 129.85,
-    "de": 1.49,
+    "de": null,
     "ds": null,
-    "sector": "exchange"
+    "sector": "edtech"
   },
   {
-    "name": "National Commodity & Derivatives Exchange (NCDEX) Limited Unlisted Shares",
+    "name": "National Commodity & Derivatives Exchange (NCDEX) Limited",
     "price": 210,
     "mcap": 1463,
     "pe": -52.24,
@@ -1182,7 +1197,7 @@
     "pbtbcfo": 84.62,
     "de": null,
     "ds": null,
-    "sector": "edtech"
+    "sector": "it"
   },
   {
     "name": "Jaro Education",
@@ -1195,12 +1210,12 @@
     "three_yr_rev_charge": 53.01,
     "three_yr_pat_charge": null,
     "pbtbcfo": -27.42,
-    "de": 0.21,
+    "de": null,
     "ds": null,
-    "sector": "it"
+    "sector": "consumer"
   },
   {
-    "name": "Kanara Consumer Products ( Formerly Known As Kurl-on Limited) Unlisted Shares",
+    "name": "Kanara Consumer Products ( Formerly Known As Kurl-on Limited)",
     "price": 1025,
     "mcap": 1449,
     "pe": 1.15,
@@ -1212,25 +1227,10 @@
     "pbtbcfo": 4377.02,
     "de": null,
     "ds": null,
-    "sector": "consumer"
-  },
-  {
-    "name": "Transline Technologies Limited",
-    "price": 155,
-    "mcap": 1371,
-    "pe": 38.08,
-    "pb": 14.55,
-    "roce": 41.13,
-    "roe": 42.76,
-    "three_yr_rev_charge": 138.75,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": -71.7,
-    "de": 0.49,
-    "ds": null,
     "sector": "fintech"
   },
   {
-    "name": "Arch Pharmalabs Limited Unlisted Shares",
+    "name": "Arch Pharmalabs Limited",
     "price": 85,
     "mcap": 1330.08,
     "pe": 10.9,
@@ -1240,12 +1240,12 @@
     "three_yr_rev_charge": 37.82,
     "three_yr_pat_charge": null,
     "pbtbcfo": 23.61,
-    "de": 1.01,
+    "de": null,
     "ds": null,
     "sector": "pharma"
   },
   {
-    "name": "Fino Paytech Limited Unlisted Shares",
+    "name": "Fino Paytech Limited",
     "price": 125,
     "mcap": 1307,
     "pe": 16.13,
@@ -1255,12 +1255,27 @@
     "three_yr_rev_charge": 762.49,
     "three_yr_pat_charge": null,
     "pbtbcfo": 850,
-    "de": 1.01,
+    "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
   {
-    "name": "Maharaja Shree Umaid Mills Unlisted Shares",
+    "name": "Transline Technologies Limited",
+    "price": 145,
+    "mcap": 1283,
+    "pe": 35.63,
+    "pb": 13.62,
+    "roce": 41.13,
+    "roe": 42.76,
+    "three_yr_rev_charge": 138.75,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": -71.7,
+    "de": null,
+    "ds": null,
+    "sector": "defence"
+  },
+  {
+    "name": "Maharaja Shree Umaid Mills",
     "price": 135,
     "mcap": 1191,
     "pe": -108,
@@ -1270,12 +1285,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": 103.18,
-    "de": 0.65,
+    "de": null,
     "ds": null,
-    "sector": "defence"
+    "sector": "engineering"
   },
   {
-    "name": "Goodluck Defence And Aerospace Unlisted Shares",
+    "name": "Goodluck Defence And Aerospace",
     "price": 240,
     "mcap": 1179,
     "pe": 648.65,
@@ -1287,10 +1302,10 @@
     "pbtbcfo": -1822.57,
     "de": null,
     "ds": null,
-    "sector": "engineering"
+    "sector": "manufacturing"
   },
   {
-    "name": "Dalmia Bharat Refractories Limited Unlisted Shares",
+    "name": "Dalmia Bharat Refractories Limited",
     "price": 255,
     "mcap": 1127,
     "pe": 23.99,
@@ -1300,12 +1315,12 @@
     "three_yr_rev_charge": -37.82,
     "three_yr_pat_charge": null,
     "pbtbcfo": 1150,
-    "de": 0.22,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "energy"
   },
   {
-    "name": "India Exposition Mart Ltd Unlisted Share",
+    "name": "India Exposition Mart Ltd",
     "price": 150,
     "mcap": 1111,
     "pe": null,
@@ -1315,27 +1330,12 @@
     "three_yr_rev_charge": 113.28,
     "three_yr_pat_charge": null,
     "pbtbcfo": 53.19,
-    "de": 0.09,
-    "ds": null,
-    "sector": "energy"
-  },
-  {
-    "name": "Spray Engineering Devices Unlisted Shares",
-    "price": 415,
-    "mcap": 1042,
-    "pe": 19.65,
-    "pb": 7.8,
-    "roce": 41.31,
-    "roe": 42.91,
-    "three_yr_rev_charge": 59.88,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": 21.84,
-    "de": 0.61,
+    "de": null,
     "ds": null,
     "sector": "consumer"
   },
   {
-    "name": "Midland Micro Finance Limited Unlisted Shares",
+    "name": "Midland Micro Finance Limited",
     "price": 195,
     "mcap": 1021,
     "pe": 14.18,
@@ -1345,12 +1345,27 @@
     "three_yr_rev_charge": 56.01,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 3.79,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "Lakeshore Hospital Unlisted Share Price",
+    "name": "Spray Engineering Devices",
+    "price": 375,
+    "mcap": 941,
+    "pe": 17.76,
+    "pb": 7.05,
+    "roce": 41.31,
+    "roe": 42.91,
+    "three_yr_rev_charge": 59.88,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": 21.84,
+    "de": null,
+    "ds": null,
+    "sector": "hospitals"
+  },
+  {
+    "name": "Lakeshore Hospital Price",
     "price": 83,
     "mcap": 830,
     "pe": null,
@@ -1362,10 +1377,10 @@
     "pbtbcfo": 60.27,
     "de": null,
     "ds": null,
-    "sector": "hospitals"
+    "sector": "manufacturing"
   },
   {
-    "name": "Lotte India Corporation Limited Unlisted Shares",
+    "name": "Lotte India Corporation Limited",
     "price": 575,
     "mcap": 802,
     "pe": 36.46,
@@ -1375,12 +1390,12 @@
     "three_yr_rev_charge": 22.38,
     "three_yr_pat_charge": null,
     "pbtbcfo": 64.47,
-    "de": 0.09,
+    "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
   {
-    "name": "Roots Multiclean Limited Unlisted Share",
+    "name": "Roots Multiclean Limited",
     "price": 4000,
     "mcap": 800,
     "pe": 16.67,
@@ -1390,27 +1405,27 @@
     "three_yr_rev_charge": 18.72,
     "three_yr_pat_charge": null,
     "pbtbcfo": 50,
-    "de": 0.23,
+    "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
   {
-    "name": "Apollo Green Energy Limited Unlisted Shares",
-    "price": 230,
-    "mcap": 796,
-    "pe": 20.72,
-    "pb": 1.42,
+    "name": "Apollo Green Energy Limited",
+    "price": 218,
+    "mcap": 755,
+    "pe": 19.64,
+    "pb": 1.34,
     "roce": 6.77,
     "roe": 6.97,
     "three_yr_rev_charge": 23.43,
     "three_yr_pat_charge": null,
     "pbtbcfo": 19.33,
-    "de": 0.73,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "agriculture"
   },
   {
-    "name": "Elofic Industries Limited Unlisted Shares",
+    "name": "Elofic Industries Limited",
     "price": 2750,
     "mcap": 688,
     "pe": 14.32,
@@ -1422,10 +1437,10 @@
     "pbtbcfo": 62.5,
     "de": null,
     "ds": null,
-    "sector": "agriculture"
+    "sector": "consumer"
   },
   {
-    "name": "Parry Agro Industries Limited Unlisted Shares",
+    "name": "Parry Agro Industries Limited",
     "price": 1740,
     "mcap": 652.5,
     "pe": -87,
@@ -1437,7 +1452,7 @@
     "pbtbcfo": 62.27,
     "de": null,
     "ds": null,
-    "sector": "consumer"
+    "sector": "energy"
   },
   {
     "name": "Shree Refrigerations Limited",
@@ -1450,12 +1465,12 @@
     "three_yr_rev_charge": 33.13,
     "three_yr_pat_charge": null,
     "pbtbcfo": -21.13,
-    "de": 0.6,
+    "de": null,
     "ds": null,
     "sector": "energy"
   },
   {
-    "name": "Insolare Energy Unlisted Shares",
+    "name": "Insolare Energy",
     "price": 4000,
     "mcap": 589,
     "pe": null,
@@ -1465,12 +1480,12 @@
     "three_yr_rev_charge": -25.68,
     "three_yr_pat_charge": null,
     "pbtbcfo": -153.85,
-    "de": 0.53,
+    "de": null,
     "ds": null,
-    "sector": "energy"
+    "sector": "trading"
   },
   {
-    "name": "A V Thomas & Co. Limited Unlisted Shares",
+    "name": "A V Thomas & Co. Limited",
     "price": 12500,
     "mcap": 570,
     "pe": 8.94,
@@ -1482,10 +1497,10 @@
     "pbtbcfo": 84.49,
     "de": null,
     "ds": null,
-    "sector": "trading"
+    "sector": "manufacturing"
   },
   {
-    "name": "Ring Plus Aqua Limited Unlisted Shares",
+    "name": "Ring Plus Aqua Limited",
     "price": 675,
     "mcap": 524,
     "pe": 10.27,
@@ -1495,9 +1510,9 @@
     "three_yr_rev_charge": 17.53,
     "three_yr_pat_charge": null,
     "pbtbcfo": 63.53,
-    "de": 2.84,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "finance"
   },
   {
     "name": "National E-Repository Limited (NeRL)",
@@ -1512,7 +1527,7 @@
     "pbtbcfo": 97.4,
     "de": null,
     "ds": null,
-    "sector": "finance"
+    "sector": "metal"
   },
   {
     "name": "RKB Global Limited",
@@ -1525,12 +1540,12 @@
     "three_yr_rev_charge": 11.44,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 0.25,
+    "de": null,
     "ds": null,
-    "sector": "metal"
+    "sector": "services"
   },
   {
-    "name": "Honeywell Electrical Devices And Systems India Unlisted Shares",
+    "name": "Honeywell Electrical Devices And Systems India",
     "price": 5000,
     "mcap": 476,
     "pe": 41.59,
@@ -1542,25 +1557,25 @@
     "pbtbcfo": 81.56,
     "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "engineering"
   },
   {
-    "name": "Fly SBS Unlisted Share",
-    "price": 395,
-    "mcap": 461,
-    "pe": 41.4,
-    "pb": 6.97,
+    "name": "Fly SBS",
+    "price": 375,
+    "mcap": 438,
+    "pe": 39.31,
+    "pb": 6.62,
     "roce": 21.43,
     "roe": 16.87,
     "three_yr_rev_charge": 97.72,
     "three_yr_pat_charge": null,
     "pbtbcfo": 13.43,
-    "de": 0.04,
+    "de": null,
     "ds": null,
-    "sector": "engineering"
+    "sector": "services"
   },
   {
-    "name": "Urban Tots Unlisted Shares",
+    "name": "Urban Tots",
     "price": 75,
     "mcap": 418,
     "pe": 59.52,
@@ -1570,9 +1585,9 @@
     "three_yr_rev_charge": 120.37,
     "three_yr_pat_charge": null,
     "pbtbcfo": 36.97,
-    "de": 0.82,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "consumer"
   },
   {
     "name": "Blu-Smart Mobility Private Limited",
@@ -1585,12 +1600,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": 305.8,
-    "de": -3.18,
+    "de": null,
     "ds": null,
-    "sector": "consumer"
+    "sector": "energy"
   },
   {
-    "name": "Bombay Gas Company Limited Unlisted Shares",
+    "name": "Bombay Gas Company Limited",
     "price": 500,
     "mcap": 400,
     "pe": 1.42,
@@ -1600,7 +1615,7 @@
     "three_yr_rev_charge": 113.85,
     "three_yr_pat_charge": null,
     "pbtbcfo": 62.65,
-    "de": 0.02,
+    "de": null,
     "ds": null,
     "sector": "energy"
   },
@@ -1615,12 +1630,12 @@
     "three_yr_rev_charge": 96.85,
     "three_yr_pat_charge": null,
     "pbtbcfo": 40,
-    "de": 0.19,
+    "de": null,
     "ds": null,
-    "sector": "energy"
+    "sector": "engineering"
   },
   {
-    "name": "Schneider Electric President Systems Unlisted Shares",
+    "name": "Schneider Electric President Systems",
     "price": 640,
     "mcap": 387,
     "pe": null,
@@ -1630,12 +1645,12 @@
     "three_yr_rev_charge": 3.48,
     "three_yr_pat_charge": null,
     "pbtbcfo": -1.28,
-    "de": 0.09,
+    "de": null,
     "ds": null,
-    "sector": "engineering"
+    "sector": "agriculture"
   },
   {
-    "name": "Tea Time Unlisted Shares",
+    "name": "Tea Time",
     "price": 39,
     "mcap": 381,
     "pe": 177.27,
@@ -1645,12 +1660,12 @@
     "three_yr_rev_charge": 27.63,
     "three_yr_pat_charge": null,
     "pbtbcfo": -72.94,
-    "de": 0.41,
+    "de": null,
     "ds": null,
-    "sector": "agriculture"
+    "sector": "consumer"
   },
   {
-    "name": "Eaton Fluid Power Limited Unlisted Shares",
+    "name": "Eaton Fluid Power Limited",
     "price": 550,
     "mcap": 380,
     "pe": 17.57,
@@ -1660,12 +1675,12 @@
     "three_yr_rev_charge": 6.48,
     "three_yr_pat_charge": null,
     "pbtbcfo": 25.11,
-    "de": 0.32,
+    "de": null,
     "ds": null,
-    "sector": "consumer"
+    "sector": "power"
   },
   {
-    "name": "San Engineering And Locomotive Company Limited Unlisted Shares",
+    "name": "San Engineering And Locomotive Company Limited",
     "price": 850,
     "mcap": 378,
     "pe": 13.51,
@@ -1676,21 +1691,6 @@
     "three_yr_pat_charge": null,
     "pbtbcfo": 17,
     "de": null,
-    "ds": null,
-    "sector": "power"
-  },
-  {
-    "name": "AITMC Ventures Pvt. Ltd. (AVPL) Unlisted Shares Price",
-    "price": 55,
-    "mcap": 378,
-    "pe": 42.64,
-    "pb": 12.36,
-    "roce": 27.96,
-    "roe": 28.93,
-    "three_yr_rev_charge": 92.58,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": -26.83,
-    "de": 0.08,
     "ds": null,
     "sector": "engineering"
   },
@@ -1705,12 +1705,27 @@
     "three_yr_rev_charge": 62.11,
     "three_yr_pat_charge": null,
     "pbtbcfo": -24.79,
-    "de": 0.98,
+    "de": null,
     "ds": null,
     "sector": "engineering"
   },
   {
-    "name": "KLM Axiva Finvest Unlisted Shares Price",
+    "name": "AITMC Ventures Pvt. Ltd. (AVPL) Price",
+    "price": 54,
+    "mcap": 371,
+    "pe": 41.86,
+    "pb": 12.13,
+    "roce": 27.96,
+    "roe": 28.93,
+    "three_yr_rev_charge": 92.58,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": -26.83,
+    "de": null,
+    "ds": null,
+    "sector": "finance"
+  },
+  {
+    "name": "KLM Axiva Finvest Price",
     "price": 18,
     "mcap": 370,
     "pe": 16.07,
@@ -1720,12 +1735,12 @@
     "three_yr_rev_charge": 30.69,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 3.06,
+    "de": null,
     "ds": null,
-    "sector": "finance"
+    "sector": "services"
   },
   {
-    "name": "Maharashtra Knowledge Corporation (MKCL) Limited Unlisted Shares",
+    "name": "Maharashtra Knowledge Corporation (MKCL) Limited",
     "price": 450,
     "mcap": 364,
     "pe": 5.77,
@@ -1750,12 +1765,12 @@
     "three_yr_rev_charge": 92.32,
     "three_yr_pat_charge": null,
     "pbtbcfo": -15.91,
-    "de": 0.67,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "manufacturing"
   },
   {
-    "name": "Hella India Lighting Unlisted Shares",
+    "name": "Hella India Lighting",
     "price": 925,
     "mcap": 344,
     "pe": 11.88,
@@ -1765,12 +1780,12 @@
     "three_yr_rev_charge": 16.47,
     "three_yr_pat_charge": null,
     "pbtbcfo": 46.15,
-    "de": 0.26,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "chemical"
   },
   {
-    "name": "Martin And Harris Laboratories Limited Unlisted Shares",
+    "name": "Martin And Harris Laboratories Limited",
     "price": 850,
     "mcap": 340,
     "pe": 8.49,
@@ -1780,12 +1795,12 @@
     "three_yr_rev_charge": -11.4,
     "three_yr_pat_charge": null,
     "pbtbcfo": 73.08,
-    "de": 0.01,
+    "de": null,
     "ds": null,
-    "sector": "chemical"
+    "sector": "healthcare"
   },
   {
-    "name": "Inkel Limited Unlisted Shares",
+    "name": "Inkel Limited",
     "price": 19,
     "mcap": 338,
     "pe": 10.92,
@@ -1795,12 +1810,12 @@
     "three_yr_rev_charge": 3.21,
     "three_yr_pat_charge": null,
     "pbtbcfo": 60,
-    "de": 0.55,
+    "de": null,
     "ds": null,
-    "sector": "healthcare"
+    "sector": "services"
   },
   {
-    "name": "Archit Nuwood Unlisted Shares",
+    "name": "Archit Nuwood",
     "price": 270,
     "mcap": 315.36,
     "pe": null,
@@ -1810,12 +1825,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": 25,
-    "de": 0.02,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "construction"
   },
   {
-    "name": "ADIANCE TECHNOLOGIES Unlisted Shares",
+    "name": "ADIANCE TECHNOLOGIES",
     "price": 2200,
     "mcap": 307,
     "pe": 95.36,
@@ -1825,27 +1840,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": -684.77,
-    "de": 0.43,
-    "ds": null,
-    "sector": "construction"
-  },
-  {
-    "name": "Matrix Gas And Renewables Unlisted Shares",
-    "price": 115,
-    "mcap": 304,
-    "pe": 8.22,
-    "pb": 0.7,
-    "roce": 10.75,
-    "roe": 8.76,
-    "three_yr_rev_charge": 3578.77,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": -266.67,
-    "de": 0.06,
+    "de": null,
     "ds": null,
     "sector": "consumer"
   },
   {
-    "name": "NCL Buildtek Limited (Previously NCL Alltek & Seccolor Limited) Unlisted Shares",
+    "name": "NCL Buildtek Limited (Previously NCL Alltek & Seccolor Limited)",
     "price": 245,
     "mcap": 283,
     "pe": 10.5,
@@ -1855,12 +1855,12 @@
     "three_yr_rev_charge": 3.32,
     "three_yr_pat_charge": null,
     "pbtbcfo": 81.63,
-    "de": 0.44,
+    "de": null,
     "ds": null,
     "sector": "services"
   },
   {
-    "name": "Empire Spices And Foods Limited Unlisted Shares",
+    "name": "Empire Spices And Foods Limited",
     "price": 585,
     "mcap": 283,
     "pe": 21.78,
@@ -1870,12 +1870,12 @@
     "three_yr_rev_charge": 9.29,
     "three_yr_pat_charge": null,
     "pbtbcfo": 121.48,
-    "de": 0.52,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "ACS Technologies Limited Unlisted Shares",
+    "name": "ACS Technologies Limited",
     "price": 46,
     "mcap": 279,
     "pe": 65.71,
@@ -1885,7 +1885,7 @@
     "three_yr_rev_charge": 10.53,
     "three_yr_pat_charge": null,
     "pbtbcfo": 29.86,
-    "de": 0.17,
+    "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
@@ -1900,12 +1900,12 @@
     "three_yr_rev_charge": 19.42,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 2.62,
+    "de": null,
     "ds": null,
     "sector": "exchange"
   },
   {
-    "name": "Resin & Plastic Limited Unlisted Shares",
+    "name": "Resin & Plastic Limited",
     "price": 650,
     "mcap": 271,
     "pe": 22.6,
@@ -1930,12 +1930,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 5.55,
+    "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
   {
-    "name": "ICEX (Indian Commodity Exchange) Limited Unlisted Shares",
+    "name": "ICEX (Indian Commodity Exchange) Limited",
     "price": 5,
     "mcap": 267,
     "pe": 83.33,
@@ -1950,7 +1950,7 @@
     "sector": "consumer"
   },
   {
-    "name": "Anugraha Valve Castings Limited Unlisted Shares",
+    "name": "Anugraha Valve Castings Limited",
     "price": 725,
     "mcap": 256,
     "pe": 12.78,
@@ -1960,12 +1960,12 @@
     "three_yr_rev_charge": 24.48,
     "three_yr_pat_charge": null,
     "pbtbcfo": -2.22,
-    "de": 0.37,
+    "de": null,
     "ds": null,
     "sector": "finance"
   },
   {
-    "name": "India Carbon Limited Unlisted Shares",
+    "name": "India Carbon Limited",
     "price": 895,
     "mcap": 237,
     "pe": 7.91,
@@ -1980,7 +1980,22 @@
     "sector": "consumer"
   },
   {
-    "name": "Bombay Swadeshi Stores Limited Unlisted Shares",
+    "name": "Matrix Gas And Renewables",
+    "price": 88,
+    "mcap": 233,
+    "pe": 6.29,
+    "pb": 0.54,
+    "roce": 10.75,
+    "roe": 8.76,
+    "three_yr_rev_charge": 3578.77,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": -266.67,
+    "de": null,
+    "ds": null,
+    "sector": "energy"
+  },
+  {
+    "name": "Bombay Swadeshi Stores Limited",
     "price": 470,
     "mcap": 232,
     "pe": 23.41,
@@ -1990,12 +2005,12 @@
     "three_yr_rev_charge": 77.96,
     "three_yr_pat_charge": null,
     "pbtbcfo": 50.25,
-    "de": 0.66,
+    "de": null,
     "ds": null,
-    "sector": "energy"
+    "sector": "manufacturing"
   },
   {
-    "name": "Maxvalue Credits And Investments Unlisted Shares",
+    "name": "Maxvalue Credits And Investments",
     "price": 6,
     "mcap": 215,
     "pe": 21.43,
@@ -2005,7 +2020,7 @@
     "three_yr_rev_charge": -9.61,
     "three_yr_pat_charge": null,
     "pbtbcfo": 143.1,
-    "de": 2.23,
+    "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
@@ -2020,9 +2035,9 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": -119.28,
-    "de": 0.2,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "metal"
   },
   {
     "name": "GRE Renew Enertech Private Limited",
@@ -2035,12 +2050,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": 51.99,
-    "de": 0.15,
+    "de": null,
     "ds": null,
-    "sector": "metal"
+    "sector": "manufacturing"
   },
   {
-    "name": "Mohindra Fasteners Limited Unlisted Shares",
+    "name": "Mohindra Fasteners Limited",
     "price": 325,
     "mcap": 191.43,
     "pe": 11.97,
@@ -2050,12 +2065,12 @@
     "three_yr_rev_charge": 13.75,
     "three_yr_pat_charge": null,
     "pbtbcfo": 48.15,
-    "de": 0.34,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "consumer"
   },
   {
-    "name": "Usha Shriram Unlisted Share",
+    "name": "Usha Shriram",
     "price": 195,
     "mcap": 192,
     "pe": -16.08,
@@ -2065,9 +2080,9 @@
     "three_yr_rev_charge": -20.11,
     "three_yr_pat_charge": null,
     "pbtbcfo": 152.67,
-    "de": 1.93,
+    "de": null,
     "ds": null,
-    "sector": "consumer"
+    "sector": "services"
   },
   {
     "name": "Madhur Iron And Steel (India)",
@@ -2080,12 +2095,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": -120.75,
-    "de": 1.78,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "engineering"
   },
   {
-    "name": "Ecosure Unlisted Shares",
+    "name": "Ecosure",
     "price": 48,
     "mcap": 171,
     "pe": 29.45,
@@ -2095,12 +2110,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": -154.95,
-    "de": 2.67,
+    "de": null,
     "ds": null,
-    "sector": "engineering"
+    "sector": "services"
   },
   {
-    "name": "Bagrrys India Limited Unlisted Shares",
+    "name": "Bagrrys India Limited",
     "price": 2219,
     "mcap": 168.64,
     "pe": 6.75,
@@ -2110,12 +2125,12 @@
     "three_yr_rev_charge": 5.34,
     "three_yr_pat_charge": null,
     "pbtbcfo": 92.21,
-    "de": 0.05,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "engineering"
   },
   {
-    "name": "RRP S4E Innovation Unlisted Shares Price",
+    "name": "RRP S4E Innovation Price",
     "price": 245,
     "mcap": 164,
     "pe": 19.25,
@@ -2125,12 +2140,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": 62.56,
-    "de": 0.05,
+    "de": null,
     "ds": null,
-    "sector": "engineering"
+    "sector": "pharma"
   },
   {
-    "name": "Premier Cryogenics Limited Unlisted Shares",
+    "name": "Premier Cryogenics Limited",
     "price": 323,
     "mcap": 159,
     "pe": 13.05,
@@ -2140,9 +2155,9 @@
     "three_yr_rev_charge": 16.78,
     "three_yr_pat_charge": null,
     "pbtbcfo": 101.8,
-    "de": 0.27,
+    "de": null,
     "ds": null,
-    "sector": "pharma"
+    "sector": "engineering"
   },
   {
     "name": "Himalayan Heli Services",
@@ -2155,12 +2170,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": 163.7,
-    "de": 1.18,
+    "de": null,
     "ds": null,
-    "sector": "engineering"
+    "sector": "services"
   },
   {
-    "name": "RNIT Solutions & Services Unlisted Shares",
+    "name": "RNIT Solutions & Services",
     "price": 125,
     "mcap": 144.625,
     "pe": 82.78,
@@ -2170,9 +2185,9 @@
     "three_yr_rev_charge": 61.59,
     "three_yr_pat_charge": null,
     "pbtbcfo": -138.78,
-    "de": 0.2,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "finance"
   },
   {
     "name": "Quality Enviro Engineers Private Limited",
@@ -2185,12 +2200,12 @@
     "three_yr_rev_charge": -4.96,
     "three_yr_pat_charge": null,
     "pbtbcfo": 20.16,
-    "de": 0.25,
+    "de": null,
     "ds": null,
-    "sector": "finance"
+    "sector": "manufacturing"
   },
   {
-    "name": "Ramaraju Surgical Cotton Mills Limited Unlisted Shares",
+    "name": "Ramaraju Surgical Cotton Mills Limited",
     "price": 235,
     "mcap": 136.54,
     "pe": -3.18,
@@ -2200,12 +2215,12 @@
     "three_yr_rev_charge": -1.48,
     "three_yr_pat_charge": null,
     "pbtbcfo": 158.82,
-    "de": 1.69,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "energy"
   },
   {
-    "name": "Roop Telsonic Ultrasonix Limited Unlisted Shares",
+    "name": "Roop Telsonic Ultrasonix Limited",
     "price": 188,
     "mcap": 131,
     "pe": 20.13,
@@ -2215,12 +2230,12 @@
     "three_yr_rev_charge": 8.75,
     "three_yr_pat_charge": null,
     "pbtbcfo": 14.52,
-    "de": 0.13,
+    "de": null,
     "ds": null,
-    "sector": "energy"
+    "sector": "hospitals"
   },
   {
-    "name": "ICL Fincorp Limited Unlisted Shares",
+    "name": "ICL Fincorp Limited",
     "price": 26,
     "mcap": 129,
     "pe": 1300,
@@ -2230,12 +2245,12 @@
     "three_yr_rev_charge": 27.64,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 4.37,
+    "de": null,
     "ds": null,
-    "sector": "hospitals"
+    "sector": "holdings"
   },
   {
-    "name": "Delta Galaxy Unlisted Shares",
+    "name": "Delta Galaxy",
     "price": 58,
     "mcap": 128,
     "pe": 9.12,
@@ -2245,12 +2260,12 @@
     "three_yr_rev_charge": 238.34,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 1.07,
+    "de": null,
     "ds": null,
-    "sector": "holdings"
+    "sector": "services"
   },
   {
-    "name": "Assam Carbon Products Limited Unlisted Shares",
+    "name": "Assam Carbon Products Limited",
     "price": 440,
     "mcap": 121,
     "pe": 14.73,
@@ -2260,12 +2275,12 @@
     "three_yr_rev_charge": 15.4,
     "three_yr_pat_charge": null,
     "pbtbcfo": 59.84,
-    "de": 0.02,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "engineering"
   },
   {
-    "name": "Kusum Industrial Gases Limited Unlisted Shares",
+    "name": "Kusum Industrial Gases Limited",
     "price": 995,
     "mcap": 118,
     "pe": 14.3,
@@ -2277,10 +2292,10 @@
     "pbtbcfo": -2175,
     "de": null,
     "ds": null,
-    "sector": "engineering"
+    "sector": "consumer"
   },
   {
-    "name": "Down Town Hospital Limited Unlisted Shares",
+    "name": "Down Town Hospital Limited",
     "price": 375,
     "mcap": 113,
     "pe": 18.75,
@@ -2292,10 +2307,10 @@
     "pbtbcfo": 125,
     "de": null,
     "ds": null,
-    "sector": "consumer"
+    "sector": "services"
   },
   {
-    "name": "NCL Holdings Unlisted Shares",
+    "name": "NCL Holdings",
     "price": 95,
     "mcap": 110,
     "pe": 60.9,
@@ -2305,9 +2320,9 @@
     "three_yr_rev_charge": -3.6,
     "three_yr_pat_charge": null,
     "pbtbcfo": 2218.97,
-    "de": 1.46,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "chemical"
   },
   {
     "name": "Imperative Business Ventures Limited",
@@ -2320,12 +2335,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": 106.59,
-    "de": 3.38,
+    "de": null,
     "ds": null,
-    "sector": "chemical"
+    "sector": "consumer"
   },
   {
-    "name": "Adtech Systems Limited Unlisted Shares",
+    "name": "Adtech Systems Limited",
     "price": 65,
     "mcap": 99.94,
     "pe": 25,
@@ -2335,9 +2350,9 @@
     "three_yr_rev_charge": -16.56,
     "three_yr_pat_charge": null,
     "pbtbcfo": 133.33,
-    "de": 0.08,
+    "de": null,
     "ds": null,
-    "sector": "consumer"
+    "sector": "finance"
   },
   {
     "name": "Raviraj Process Control Ltd",
@@ -2350,12 +2365,12 @@
     "three_yr_rev_charge": null,
     "three_yr_pat_charge": null,
     "pbtbcfo": -32.85,
-    "de": 0.72,
+    "de": null,
     "ds": null,
-    "sector": "finance"
+    "sector": "services"
   },
   {
-    "name": "Apollo Fashion International Unlisted Shares",
+    "name": "Apollo Fashion International",
     "price": 52,
     "mcap": 93.6,
     "pe": 5.54,
@@ -2365,9 +2380,9 @@
     "three_yr_rev_charge": 31.11,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 0.24,
+    "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "engineering"
   },
   {
     "name": "Amol Minechem Limited",
@@ -2380,27 +2395,12 @@
     "three_yr_rev_charge": 19.9,
     "three_yr_pat_charge": null,
     "pbtbcfo": 57.15,
-    "de": 0.1,
-    "ds": null,
-    "sector": "engineering"
-  },
-  {
-    "name": "Market Simplified Unlisted Shares Price",
-    "price": 36,
-    "mcap": 77.0004,
-    "pe": 48.65,
-    "pb": 1.71,
-    "roce": 2.84,
-    "roe": 3.54,
-    "three_yr_rev_charge": 19,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": 151.5,
     "de": null,
     "ds": null,
     "sector": "manufacturing"
   },
   {
-    "name": "Bazar India Unlisted Shares",
+    "name": "Bazar India",
     "price": 25,
     "mcap": 75,
     "pe": 78.13,
@@ -2410,12 +2410,12 @@
     "three_yr_rev_charge": -9.67,
     "three_yr_pat_charge": null,
     "pbtbcfo": -1684.47,
-    "de": 0.95,
+    "de": null,
     "ds": null,
     "sector": "services"
   },
   {
-    "name": "Silverline Technologies Limited Unlisted Shares",
+    "name": "Silverline Technologies Limited",
     "price": 12,
     "mcap": 71.982,
     "pe": null,
@@ -2425,9 +2425,24 @@
     "three_yr_rev_charge": -36.08,
     "three_yr_pat_charge": null,
     "pbtbcfo": 442.86,
-    "de": 1.45,
+    "de": null,
     "ds": null,
     "sector": "construction"
+  },
+  {
+    "name": "Market Simplified Price",
+    "price": 32,
+    "mcap": 68.4448,
+    "pe": 43.24,
+    "pb": 1.52,
+    "roce": 2.84,
+    "roe": 3.54,
+    "three_yr_rev_charge": 19,
+    "three_yr_pat_charge": null,
+    "pbtbcfo": 151.5,
+    "de": null,
+    "ds": null,
+    "sector": "pharma"
   },
   {
     "name": "Optivalue Tek Consulting Limited",
@@ -2440,12 +2455,12 @@
     "three_yr_rev_charge": 12.01,
     "three_yr_pat_charge": null,
     "pbtbcfo": 80.41,
-    "de": 0.25,
+    "de": null,
     "ds": null,
-    "sector": "pharma"
+    "sector": "exchange"
   },
   {
-    "name": "Sri Vishnu Shankar Mill Limited Unlisted Shares",
+    "name": "Sri Vishnu Shankar Mill Limited",
     "price": 425,
     "mcap": 64,
     "pe": -2.95,
@@ -2455,12 +2470,12 @@
     "three_yr_rev_charge": -7.19,
     "three_yr_pat_charge": null,
     "pbtbcfo": -3411.76,
-    "de": 1.39,
+    "de": null,
     "ds": null,
-    "sector": "exchange"
+    "sector": "finance"
   },
   {
-    "name": "The Scottish Assam (India) Limited Unlisted Shares",
+    "name": "The Scottish Assam (India) Limited",
     "price": 775,
     "mcap": 62,
     "pe": 5.17,
@@ -2470,9 +2485,9 @@
     "three_yr_rev_charge": -3.48,
     "three_yr_pat_charge": null,
     "pbtbcfo": 162,
-    "de": 0.06,
+    "de": null,
     "ds": null,
-    "sector": "finance"
+    "sector": "consumer"
   },
   {
     "name": "Zak Venture Ltd",
@@ -2485,12 +2500,12 @@
     "three_yr_rev_charge": 7.68,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 2.08,
+    "de": null,
     "ds": null,
-    "sector": "consumer"
+    "sector": "manufacturing"
   },
   {
-    "name": "Hicks Thermometers India Limited Unlisted Shares",
+    "name": "Hicks Thermometers India Limited",
     "price": 1800,
     "mcap": 59,
     "pe": 24.01,
@@ -2500,12 +2515,12 @@
     "three_yr_rev_charge": -18.13,
     "three_yr_pat_charge": null,
     "pbtbcfo": 73.5,
-    "de": 0.12,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "pharma"
   },
   {
-    "name": "Calcutta Stock Exchange Unlisted Shares",
+    "name": "Calcutta Stock Exchange",
     "price": 919,
     "mcap": 56,
     "pe": 67.67,
@@ -2517,10 +2532,10 @@
     "pbtbcfo": -2050.79,
     "de": null,
     "ds": null,
-    "sector": "pharma"
+    "sector": "manufacturing"
   },
   {
-    "name": "Rydak Syndicate Limited Unlisted Shares",
+    "name": "Rydak Syndicate Limited",
     "price": 575,
     "mcap": 55.78,
     "pe": 11.15,
@@ -2530,9 +2545,9 @@
     "three_yr_rev_charge": -1.21,
     "three_yr_pat_charge": null,
     "pbtbcfo": 88.89,
-    "de": 0.11,
+    "de": null,
     "ds": null,
-    "sector": "manufacturing"
+    "sector": "chemical"
   },
   {
     "name": "Livespace Interiors Pvt Ltd",
@@ -2545,12 +2560,12 @@
     "three_yr_rev_charge": 44.92,
     "three_yr_pat_charge": null,
     "pbtbcfo": null,
-    "de": 2.91,
+    "de": null,
     "ds": null,
-    "sector": "chemical"
+    "sector": "services"
   },
   {
-    "name": "Auckland Jute Co. Limited Unlisted Shares",
+    "name": "Auckland Jute Co. Limited",
     "price": 189,
     "mcap": 52,
     "pe": 33.45,
@@ -2562,10 +2577,10 @@
     "pbtbcfo": 215.36,
     "de": null,
     "ds": null,
-    "sector": "services"
+    "sector": "engineering"
   },
   {
-    "name": "Deys Medical Stores (Mfg) Limited Unlisted Shares",
+    "name": "Deys Medical Stores (Mfg) Limited",
     "price": 539,
     "mcap": 45.8797,
     "pe": 4.32,
@@ -2575,22 +2590,7 @@
     "three_yr_rev_charge": 2.3,
     "three_yr_pat_charge": null,
     "pbtbcfo": 75.28,
-    "de": 0.03,
-    "ds": null,
-    "sector": "engineering"
-  },
-  {
-    "name": "GG Automotive Gears Limited Unlisted Shares",
-    "price": 42,
-    "mcap": 35,
-    "pe": 7.89,
-    "pb": 1.1,
-    "roce": 13.81,
-    "roe": 13.96,
-    "three_yr_rev_charge": 41.61,
-    "three_yr_pat_charge": null,
-    "pbtbcfo": 98.92,
-    "de": 0.86,
+    "de": null,
     "ds": null,
     "sector": "manufacturing"
   }

@@ -2,7 +2,7 @@ import News from "../models/news.model.js";
 
 export const getNews = async (req, res) => {
   try {
-    const news = await News.find();
+    const news = await News.find().sort({ date: -1 });;
     res.status(200).json(news);
   } catch (error) {
     res.status(500).json({ message: "Server Error" });
@@ -26,24 +26,7 @@ export const addNews = async (req, res) => {
     res.status(500).json({ message: "Bulk insert failed", error: err.message });
   }
 };
-// export const addOneNews = async(req,res) => {
-//   const news = req.body;
-//   if(!news){
-//     return res.status(400).json({ message: 'Input must be a non-empty  news type' });
-//   }
 
-//   try {
-//     const insertedNews = await News.insertOne(news);
-//     if(insertedNews){
-//       res.send(200).json({
-//         message:'News Inserted Successfully'
-//       })
-//     }
-//   } catch (error) {
-//     res.status(500).json({ message: 'insert failed', error: err.message });
-//   }
-
-// }
 export const addOneNews = async (req, res) => {
   const { title, description, imageUrl, newsUrl } = req.body;
   if (!title || !description || !imageUrl || !newsUrl) {
